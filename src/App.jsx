@@ -47,7 +47,7 @@ function App() {
           <div className="card" key={index}>
             <div className="row atas">
               <div className="col kiri">
-                <img src="./public/assets/avatar.svg" alt="" />
+                <img src="./assets/avatar.svg" alt="" />
               </div>
               <div className="col kanan">
                 <div className="cardHead">
